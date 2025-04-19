@@ -9,7 +9,7 @@ This project uses deep learning with PyTorch and EfficientNet to classify MRI br
 - 🧪 Evaluation using Accuracy and F1-score from `torchmetrics`
 
 ## 🗂️ Dataset
-The dataset is from [Kaggle][https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection] 
+The dataset is from [Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) 
 The dataset is assumed to be organized in an `ImageFolder` format:
 
 
